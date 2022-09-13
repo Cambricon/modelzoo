@@ -1,0 +1,6 @@
+[submodule "magicmind-cloud"]
+	path = magicmind-cloud
+	url = https://gitee.com/cambricon/magicmind-cloud
+[submodule "magicmind-edge"]
+	path = magicmind-edge
+	url = https://gitee.com/cambricon/magicmind-edge
