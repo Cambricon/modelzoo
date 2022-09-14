@@ -1,7 +1,11 @@
 # Cambricon ModelZoo
 
 #### 介绍
-Cambricon ModelZoo是xxx
+Cambricon ModelZoo是由寒武纪开发和维护的模型合集，提供深度学习在各个应用领域(包括并不限于CV/NL/语音/推荐等)中经典和SOTA模型的训练和推理应用示例。
+
+本仓库旨在基于寒武纪的硬件产品和软件SDK，展示最佳的编程实践，以达成模型的快速移植和最优性能，开发者可以从modelzoo的源码中得到研究和二次开发的参考。
+
+本仓库在持续更新中，如果您有任何需求，可以在[modelzoo/issue](https://gitee.com/cambricon/modelzoo/issues)或者[寒武纪开发者论坛](https://forum.cambricon.com/)给我们提issue，我们会尽快评估和处理，也欢迎在[寒武纪开发者社区](https://developer.cambricon.com/)浏览我们的更多内容。
 
 
 #### 使用说明
