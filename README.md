@@ -14,7 +14,7 @@ Cambricon ModelZoo是xxx
 TBD
 
 #### 许可证
-Cambricon ModelZoo的License具体内容请参见LICENSE文件。
+Cambricon ModelZoo的License具体内容请参见[LICENSE](https://gitee.com/cambricon/modelzoo/blob/master/LICENSE)文件。
 
 #### 免责声明
 
