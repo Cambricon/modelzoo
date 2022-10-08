@@ -10,7 +10,7 @@ Cambricon ModelZoo是由寒武纪开发和维护的模型合集，提供人工�
 
 #### 使用说明
 
-Cambricon ModelZoo仓库包含4个自仓库，分别是 magicmind_cloud_modelzoo，magicmind_edge_modelzoo ， cambricon_pytorch_modelzoo 和 cambricon_tensorflow_modelzoo，您可以直接克隆本仓库，或者分别克隆需要的子仓库，并根据子仓库的README指引进行评测和开发。
+Cambricon ModelZoo仓库包含4个子仓库，分别是 magicmind_cloud_modelzoo，magicmind_edge_modelzoo ， cambricon_pytorch_modelzoo 和 cambricon_tensorflow_modelzoo，您可以直接克隆本仓库，或者分别克隆需要的子仓库，并根据子仓库的README指引进行评测和开发。
 
 
 | 子仓库  | 说明 |
