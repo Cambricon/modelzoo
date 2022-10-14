@@ -10,15 +10,16 @@ Cambricon ModelZoo是由寒武纪开发和维护的模型合集，提供人工�
 
 #### 使用说明
 
-Cambricon ModelZoo仓库包含4个子仓库，分别是 magicmind_cloud_modelzoo，magicmind_edge_modelzoo ， cambricon_pytorch_modelzoo 和 cambricon_tensorflow_modelzoo，您可以直接克隆本仓库，或者分别克隆需要的子仓库，并根据子仓库的README指引进行评测和开发。
+Cambricon ModelZoo仓库包含5个子仓库，分别是 magicmind_cloud_modelzoo，magicmind_edge_modelzoo ， cambricon_pytorch_modelzoo，cambricon_tensorflow_modelzoo 和 paddle_mlu_modelzoo 您可以直接克隆本仓库，或者分别克隆需要的子仓库，并根据子仓库的README指引进行评测和开发。
 
 
 | 子仓库  | 说明 |
 | ------------- | ------------- |
-| [magicmind_cloud](https://gitee.com/cambricon/magicmind-cloud) | 基于寒武纪自研推理引擎magicmind在云端产品的模型推理集合 | 
-| [magicmind_edge](https://gitee.com/cambricon/magicmind-edge) | 基于寒武纪自研推理引擎magicmind在边端产品的模型推理集合 | 
+| [magicmind_cloud_modelzoo](https://gitee.com/cambricon/magicmind-cloud) | 基于寒武纪自研推理引擎magicmind在云端产品的模型推理集合 | 
+| [magicmind_edge_modelzoo](https://gitee.com/cambricon/magicmind-edge) | 基于寒武纪自研推理引擎magicmind在边端产品的模型推理集合 | 
 | cambricon_pytorch_modelzoo | TBD |
 | cambricon_tensorflow_modelzoo | TBD |
+| paddle_mlu_modelzoo | TBD |
 
 #### 参与贡献
 TBD
