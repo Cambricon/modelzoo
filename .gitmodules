@@ -7,3 +7,6 @@
 [submodule "paddle_mlu"]
 	path = paddle_mlu
 	url = https://gitee.com/cambricon/paddle_mlu.git
+[submodule "pytorch_modelzoo"]
+	path = pytorch_modelzoo
+	url = https://gitee.com/cambricon/pytorch_modelzoo.git
