@@ -4,3 +4,6 @@
 [submodule "magicmind-edge"]
 	path = magicmind-edge
 	url = https://gitee.com/cambricon/magicmind-edge
+[submodule "paddle_mlu"]
+	path = paddle_mlu
+	url = https://gitee.com/cambricon/paddle_mlu.git
