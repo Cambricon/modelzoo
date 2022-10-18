@@ -4,3 +4,9 @@
 [submodule "pytorch_modelzoo"]
 	path = pytorch_modelzoo
 	url = https://gitee.com/cambricon/pytorch_modelzoo.git
+[submodule "magicmind_cloud"]
+	path = magicmind_cloud
+	url = https://gitee.com/cambricon/magicmind_cloud.git
+[submodule "magicmind_edge"]
+	path = magicmind_edge
+	url = https://gitee.com/cambricon/magicmind_edge.git
