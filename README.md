@@ -18,7 +18,7 @@ Cambricon ModelZoo仓库包含5个子仓库，分别是 magicmind_cloud_modelzoo
 | [magicmind_cloud_modelzoo](https://gitee.com/cambricon/magicmind-cloud) | 基于寒武纪自研推理引擎magicmind在云端产品的模型推理集合 | 
 | [magicmind_edge_modelzoo](https://gitee.com/cambricon/magicmind-edge) | 基于寒武纪自研推理引擎magicmind在边端产品的模型推理集合 | 
 | [cambricon_pytorch_modelzoo](https://gitee.com/cambricon/pytorch_modelzoo.git) | 基于Cambricon PyTorch的模型训练/推理集合 |
-| cambricon_tensorflow_modelzoo | TBD |
+| [cambricon_tensorflow_modelzoo](https://gitee.com/cambricon/tensorflow_modelzoo.git) | 基于Cambricon Tensorflow的模型训练/推理集合 |
 | [paddle_mlu_modelzoo](https://gitee.com/cambricon/paddle_mlu.git) | 百度paddle运行在MLU上的模型集合 |
 
 #### 参与贡献
