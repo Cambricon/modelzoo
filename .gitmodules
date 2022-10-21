@@ -10,3 +10,6 @@
 [submodule "magicmind_edge"]
 	path = magicmind_edge
 	url = https://gitee.com/cambricon/magicmind_edge.git
+[submodule "tensorflow_modelzoo"]
+	path = tensorflow_modelzoo
+	url = https://gitee.com/cambricon/tensorflow_modelzoo.git
